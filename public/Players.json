@@ -1,0 +1,122 @@
+[
+  {
+    "playerImage": "./image/sakib.png",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "rating": 92,
+    "playerRole": "All-rounder",
+    "price": "$1,000,000",
+    "bowlingStyle": "Left-arm orthodox spin",
+    "battingStyle": "Left-handed-bat"
+  },
+  {
+    "playerImage": "./image/taskin.png",
+    "name": "Taskin Ahmed",
+    "country": "Bangladesh",
+    "rating": 89,
+    "playerRole": "Bowler",
+    "price": "$850,000",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-handed-bat"
+  },
+  {
+    "playerImage": "./image/shanto.png",
+    "name": "Najmul Hossain Shanto",
+    "country": "Bangladesh",
+    "rating": 88,
+    "playerRole": "Batsman",
+    "price": "$800,000",
+    "bowlingStyle": "N/A",
+    "battingStyle": "Left-handed-bat"
+  },
+  {
+    "playerImage": "./image/Gayle.png",
+    "name": "Chris Gayle",
+    "country": "West Indies",
+    "rating": 91,
+    "playerRole": "Batsman",
+    "price": "$950,000",
+    "bowlingStyle": "N/A",
+    "battingStyle": "Left-handed-bat"
+  },
+  {
+    "playerImage": "./image/Bravo.png",
+    "name": "Dwayne Bravo",
+    "country": "West Indies",
+    "rating": 87,
+    "playerRole": "All-rounder",
+    "price": "$900,000",
+    "bowlingStyle": "Right-arm medium-fast",
+    "battingStyle": "Right-handed-bat"
+  },
+  {
+    "playerImage": "./image/Naim.png",
+    "name": "Mohammad Naim",
+    "country": "Bangladesh",
+    "rating": 85,
+    "playerRole": "Batsman",
+    "price": "$750,000",
+    "bowlingStyle": "N/A",
+    "battingStyle": "Left-handed-bat"
+  },
+  {
+    "playerImage": "./image/Rashid-Khan.png",
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "rating": 90,
+    "playerRole": "Bowler",
+    "price": "$1,100,000",
+    "bowlingStyle": "Right-arm leg spin",
+    "battingStyle": "Right-handed-bat"
+  },
+  {
+    "playerImage": "./image/Pollard.png",
+    "name": "Kieron Pollard",
+    "country": "West Indies",
+    "rating": 86,
+    "playerRole": "All-rounder",
+    "price": "$800,000",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-handed-bat"
+  },
+  {
+    "playerImage": "./image/saifuddin.png",
+    "name": "Mohammad Saifuddin",
+    "country": "Bangladesh",
+    "rating": 84,
+    "playerRole": "All-rounder",
+    "price": "$700,000",
+    "bowlingStyle": "Right-arm fast-medium",
+    "battingStyle": "Left-handed-bat"
+  },
+  {
+    "playerImage": "./image/David.png",
+    "name": "David Warner",
+    "country": "Australia",
+    "rating": 88,
+    "playerRole": "Batsman",
+    "price": "$950,000",
+    "bowlingStyle": "N/A",
+    "battingStyle": "Left-handed-bat"
+  },
+  {
+    "playerImage": "./image/shamsur.png",
+    "name": "Shamsur Rahman",
+    "country": "Bangladesh",
+    "rating": 82,
+    "playerRole": "Batsman",
+    "price": "$600,000",
+    "bowlingStyle": "N/A",
+    "battingStyle": "Right-handed-bat"
+  },
+  {
+    "playerImage": "./image/rasel.png",
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "rating": 89,
+    "playerRole": "All-rounder",
+    "price": "$1,000,000",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-handed-bat"
+  }
+]
